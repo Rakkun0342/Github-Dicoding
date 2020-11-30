@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Dicoding</string>
+    <string name="github_username">github.com/anselmusr</string>
+    <string name="github_company">Universitas Amikom Yogyakarta</string>
+    <string name="github_location">Yogyakarta, Indonesia</string>
+    <string name="github_name">Anselmus Rusdiatmaja</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter Username</string>
+    <string name="repository">Repository</string>
+    <string name="Following">Following</string>
+    <string name="Followers">Followers</string>
+    <string name="_0000">0000</string>
+    <string name="UbahBahasa">Change Language</string>
+    <string name="aboutme">About Me</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="empty_favorite">Data Kosong</string>
+    <string name="delete_favorite">Hapus Favorite</string>
+    <string name="add_favorite">Tambah Favorit</string>
+    <string name="Favorite">Favorite</string>
+</resources>
