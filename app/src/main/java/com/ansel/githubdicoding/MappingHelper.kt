@@ -26,12 +26,12 @@ object MappingHelper {
                     Favorite(
                         username,
                         name,
+                        avatar,
                         company,
                         location,
                         repository,
-                        following,
                         followers,
-                        avatar,
+                        following,
                         favorite
                     )
                 )
